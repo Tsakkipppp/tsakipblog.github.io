@@ -1,0 +1,6 @@
+title: "Tsaqif's Blog | Get into my chaotic mind"
+description: "I write about what I learn and what I feel."
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
